@@ -1,0 +1,56 @@
+[
+    {
+        "key": "bw",
+        "type": "input",
+        "templateOptions": {
+            "label": "Width, bw",
+            "type": "number",
+            "required": true
+        }
+    },
+    {
+        "key": "h",
+        "type": "input",
+        "templateOptions": {
+            "label": "Height, h",
+            "type": "number",
+            "required": true
+        }
+    },
+    {
+        "key": "d",
+        "type": "input",
+        "templateOptions": {
+            "label": "Effective depth, d",
+            "type": "number",
+            "required": "true"
+        }
+    },
+    {
+        "key": "As",
+        "type": "input",
+        "templateOptions": {
+            "label": "Steel area, As",
+            "type": "number",
+            "required": "true"
+        }
+    },
+    {
+        "key": "fc",
+        "type": "input",
+        "templateOptions": {
+            "label": "Concrete strength, fc",
+            "type": "number",
+            "required": "true"
+        }
+    },
+    {
+        "key": "fy",
+        "type": "input",
+        "templateOptions": {
+            "label": "Steel strength, fy",
+            "type": "number",
+            "required": "true"
+        }
+    }
+]

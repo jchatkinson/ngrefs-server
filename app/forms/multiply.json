@@ -1,0 +1,20 @@
+[
+    {
+        "key": "a",
+        "type": "input",
+        "templateOptions": {
+            "label": "First Number",
+            "type": "number",
+            "required": true
+        }
+    },
+    {
+        "key": "b",
+        "type": "input",
+        "templateOptions": {
+            "label": "Second Number",
+            "type": "number",
+            "required": "true"
+        }
+    }
+]
